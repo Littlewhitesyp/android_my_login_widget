@@ -4,10 +4,24 @@ android 自定义控件之组合控件--登陆控件。可以快速创建一个�
 该demo包含以下文件
 
 README.md            介绍文件
+
+
 MainActivity.java    demo MainActivity文件
+
+
 CircleImage.java     自定义圆形ImageView
+
+
 myLoginWidget.java   自定义登陆控件
+
+
 attrs.xml            自定义圆形ImageView属性文件
+
+
 activity_main.xml    MainActivity布局文件
+
+
 myloginlayout        自定义登陆控件布局文件
+
+
 photo3.jpg           demo 所使用图片
